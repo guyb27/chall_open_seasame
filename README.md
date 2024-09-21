@@ -1,1 +1,0 @@
-# chall_open_seasame
